@@ -72,13 +72,13 @@ These statements offer control over program execution, allowing more flexible be
 
 C++ is employed in various domains due to its performance and control over system resources:
 
-##- System and Software Development:
+- System and Software Development:
 Operating systems, file systems, and other system-level software.
-##- Game Development: 
+- Game Development: 
 High-performance games and real-time simulations.
-##- Embedded Systems: 
+- Embedded Systems: 
 Firmware and hardware-level programming.
-##- Finance: 
+- Finance: 
 High-frequency trading systems and financial applications.
 - **Scientific Computing**: Complex simulations and numerical analysis.
 
